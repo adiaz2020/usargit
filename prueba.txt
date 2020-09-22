@@ -1,1 +1,3 @@
 esto es una prueba 
+
+tenes que poener tu nombre y correo en las configuraciones de tu git
